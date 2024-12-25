@@ -1,3 +1,5 @@
+# Here is a bit about me
+
 ## Past experience
 
 I have been actively exploring the cybersecurity space for over a couple of years. A year has past since i shifted my focus to Web3 security. During this time, I’ve been learning about blockchain technology, smart contracts, their vulnerabilities. While I’ve been doing bug bounties for six months without any major successes yet, the process has significantly sharpened my understanding of Web3 ecosystems.
